@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋, I'm Khatija Tul Kubra Shaik
 
-<!--
-**Khatija96/Khatija96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Computer Science Engineer | AI & Machine Learning Engineer | Software Developer
 
-Here are some ideas to get you started:
+I am a Computer Science Engineer with a strong foundation in Artificial Intelligence, Machine Learning, Python, and Web Development. I enjoy building practical applications and continuously improving my software development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+
+- Python
+- Java
+- SQL
+- HTML5
+- CSS3
+- JavaScript
+- Flask
+- Machine Learning
+- Pandas
+- NumPy
+- Scikit-learn
+- Git
+- GitHub
+
+---
+
+## 🚀 Featured Projects
+
+- AI Resume Analyzer
+- Smart Attendance System
+- Expense Tracker
+- Job Recommendation System
+- Portfolio Website
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.co
+m/in/khatija-tul-kubra-sk-31601b287
+
+- Email: khatizatayyeba47@gmail.com
