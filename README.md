@@ -24,16 +24,6 @@ I am a Computer Science Engineer with a strong foundation in Artificial Intellig
 
 ---
 
-## 🚀 Featured Projects
-
-- AI Resume Analyzer
-- Smart Attendance System
-- Expense Tracker
-- Job Recommendation System
-- Portfolio Website
-
----
-
 ## 📫 Connect with Me
 
 - LinkedIn: https://www.linkedin.co
