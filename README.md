@@ -26,7 +26,6 @@ I am a Computer Science Engineer with a strong foundation in Artificial Intellig
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://www.linkedin.co
-m/in/khatija-tul-kubra-sk-31601b287
+- LinkedIn: https://www.linkedin.com/in/khatija-tul-kubra-sk-31601b287
 
 - Email: khatizatayyeba47@gmail.com
